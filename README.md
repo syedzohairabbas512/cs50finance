@@ -1,5 +1,3 @@
-Creating a beautiful README file can greatly enhance your project's documentation and make it more appealing to potential users and collaborators. Here's a template for a README file based on your Flask application:
-
 # Flask Finance Web App
 
 This is a simple web application for managing your stock portfolio. It allows you to buy and sell stocks, view your portfolio, and check your transaction history.
